@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stonefist-naming/static/css/main.e344ce76.css",
+    "main.js": "/stonefist-naming/static/js/main.1d8727fe.js",
+    "static/js/453.e4660c3c.chunk.js": "/stonefist-naming/static/js/453.e4660c3c.chunk.js",
+    "static/media/fist.png": "/stonefist-naming/static/media/fist.947e193a06ed14ea7cfb.png",
+    "index.html": "/stonefist-naming/index.html",
+    "main.e344ce76.css.map": "/stonefist-naming/static/css/main.e344ce76.css.map",
+    "main.1d8727fe.js.map": "/stonefist-naming/static/js/main.1d8727fe.js.map",
+    "453.e4660c3c.chunk.js.map": "/stonefist-naming/static/js/453.e4660c3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e344ce76.css",
+    "static/js/main.1d8727fe.js"
+  ]
+}
