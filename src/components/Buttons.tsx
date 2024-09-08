@@ -96,6 +96,14 @@ export default function Buttons() {
           >
             텍스쳐
           </div>
+          <div
+            className={`button button-mecanim ${
+              selectState.kind === "mecanim" ? "selected" : ""
+            }`}
+            onClick={handleClickMecanim}
+          >
+            메카님
+          </div>
         </div>
         <div className="space" />
         <div className="small-title">사운드</div>
