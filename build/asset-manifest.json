@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/stonefist-naming/static/css/main.e344ce76.css",
-    "main.js": "/stonefist-naming/static/js/main.3e7165b8.js",
+    "main.js": "/stonefist-naming/static/js/main.1009f512.js",
     "static/js/453.e4660c3c.chunk.js": "/stonefist-naming/static/js/453.e4660c3c.chunk.js",
     "static/media/fist.png": "/stonefist-naming/static/media/fist.947e193a06ed14ea7cfb.png",
     "index.html": "/stonefist-naming/index.html",
     "main.e344ce76.css.map": "/stonefist-naming/static/css/main.e344ce76.css.map",
-    "main.3e7165b8.js.map": "/stonefist-naming/static/js/main.3e7165b8.js.map",
+    "main.1009f512.js.map": "/stonefist-naming/static/js/main.1009f512.js.map",
     "453.e4660c3c.chunk.js.map": "/stonefist-naming/static/js/453.e4660c3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e344ce76.css",
-    "static/js/main.3e7165b8.js"
+    "static/js/main.1009f512.js"
   ]
 }

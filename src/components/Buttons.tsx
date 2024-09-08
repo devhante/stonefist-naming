@@ -104,6 +104,38 @@ export default function Buttons() {
           >
             메카님
           </div>
+          <div
+            className={`button button-animation ${
+              selectState.kind === "animation" ? "selected" : ""
+            }`}
+            onClick={handleClickAnimation}
+          >
+            애니메이션
+          </div>
+          <div
+            className={`button button-panel ${
+              selectState.kind === "panel" ? "selected" : ""
+            }`}
+            onClick={handleClickPanel}
+          >
+            패널
+          </div>
+          <div
+            className={`button button-button ${
+              selectState.kind === "button" ? "selected" : ""
+            }`}
+            onClick={handleClickButton}
+          >
+            버튼
+          </div>
+          <div
+            className={`button button-icon ${
+              selectState.kind === "icon" ? "selected" : ""
+            }`}
+            onClick={handleClickIcon}
+          >
+            아이콘
+          </div>
         </div>
         <div className="space" />
         <div className="small-title">사운드</div>
